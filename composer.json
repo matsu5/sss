@@ -1,9 +1,0 @@
-{
-    "require": {
-      "zenframework/zend-cache": "2.*"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "*",
-        "apigen/apigen": "3.*"
-    }
-}
